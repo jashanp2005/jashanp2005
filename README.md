@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Blogging Website**
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
