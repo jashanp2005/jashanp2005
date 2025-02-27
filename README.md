@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jashanpreet Singh</h1>
 <h3 align="center">A passionate Web developer and Competitive Coder from India</h3>
 
-- 🔭 I’m currently working on **Vibe-Sync**
-
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
